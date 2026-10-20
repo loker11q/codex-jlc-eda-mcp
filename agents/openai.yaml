@@ -1,0 +1,3 @@
+interface:
+  display_name: "JLCEDA MCP"
+  short_description: "Connect Codex to JLCEDA Pro"
